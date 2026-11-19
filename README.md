@@ -1,8 +1,6 @@
 # LED POV Holographic Display Fan
 
-This repository contains the source code, hardware Bill of Materials (BOM), and assembly information for building an **LED POV (Persistence of Vision) Holographic Display Fan**. 
-
-The device uses a high-speed brushless motor to spin a lightweight, rigid carbon fiber blade carrying a strip of individually addressable RGB LEDs. By rapidly updating the LED colors in synchronization with the motor's precise angular position, it creates the optical illusion of a floating, 3D holographic image or animation suspended in mid-air.
+This repository contains source code, BOM(build of material), and assembly information on an **LED Holographic Display Fan**. 
 
 ---
 
