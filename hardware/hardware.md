@@ -20,10 +20,10 @@ This document outlines the core hardware components used for this build.
 * **Configuration:** 5V DC, Black PCB backing, high-density matrix (144 LEDs per meter), IP30 non-waterproof rating.
 * **Application:** Visual telemetry, state identification, or dynamic lighting effects via a single-wire digital interface.
 
-### 🥢 Model Shaft Tubes
+### Model Shaft Tubes
 * **Configuration:** Precision-diameter metallic rod/axle structure (1mm–18mm range, 1x500mm profile).
 * **Application:** Structural load bearing, rotational axle connection, or linear guide rails.
 
-### 🧲 N35 Neodymium Magnets
+### N35 Neodymium Magnets
 * **Configuration:** High-coercivity rare-earth permanent magnets (5mm x 2mm sizing specification).
 * **Application:** Excitation source for the Hall sensor array or structural latching/alignment mechanisms.
