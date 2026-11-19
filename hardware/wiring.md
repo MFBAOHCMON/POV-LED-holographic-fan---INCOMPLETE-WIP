@@ -1,8 +1,8 @@
-# 🔌 Hardware Wiring & Pin Mapping Specifications
+# Hardware Wiring & Pin Mapping Specifications
 
 This document outlines the electrical connections, signal routing, and power distribution paths required to safely interface the system components.
 
-## 📌 Wiring Table
+## Wiring Table
 
 | Component | Pin / Cable | Target Connection | Connection Type | Technical Notes |
 | :--- | :--- | :--- | :--- | :--- |
